@@ -2,9 +2,7 @@
  Assignment No.: 2
  Course: PROG12974
  Name: Orlando Companioni
- Your Sheridan Student Number:991437087
  Submission date:2022-11-15
- Instructor's name: Syed Tanbeer
 
 The program shows the user a menu for them too choose an option, then performs the option chosen
 it utilizes functions, loops, if statements, any(), try, exception, and the use of modules
