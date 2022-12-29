@@ -2,9 +2,7 @@
  Assignment No.: 2
  Course: PROG12974
  Name: Orlando Companioni
- Your Sheridan Student Number:991437087
  Submission date:2022-11-15
- Instructor's name: Syed Tanbeer
 
 Program full of usable functions for other programs
 it has a power function which takes in a base and an exponent
